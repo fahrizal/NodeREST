@@ -1,0 +1,14 @@
+{
+  "name": "NodeREST",
+  "version": "0.0.0",
+  "description": "NodeREST",
+  "main": "app.js",
+  "author": {
+    "name": "Fahrizal",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^3.4.4",
+    "jade": "^1.11.0"
+  }
+}
